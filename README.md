@@ -2,8 +2,17 @@
 Resoluções das atividades práticas do curso de "computational thinking problem 
 solving" da University of Pennsylvania, pela plataforma Coursera.
 
-## Estudos de casos
+## Material desenvolvido
 
-| Módulo | Estudo de caso |
-| ------ | -------------- |
-| Aplicando o Pensamento Computacional | [repositório](estudo-de-caso-Pensamento-Computacional) |
+### Estudo de caso
+
+| Módulo | repositório |
+| ------ | ----------- |
+| Aplicando o Pensamento Computacional | [crique aqui 👈🏾](estudo-de-caso-Pensamento-Computacional) |
+
+
+### Tarefa
+
+| Módulo | repositório |
+| ------ | ----------- |
+| Como encontrar os valores mínimos | [crique aqui 👈🏾](tarefa-encontrar-valores-minimos) |
