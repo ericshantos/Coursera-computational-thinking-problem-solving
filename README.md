@@ -9,6 +9,7 @@ solving" da University of Pennsylvania, pela plataforma Coursera.
 | Módulo | repositório |
 | ------ | ----------- |
 | Aplicando o Pensamento Computacional | [crique aqui 👈🏾](estudo-de-caso-Pensamento-Computacional) |
+| Expressão e análise de algoritmos | [crique aqui 👈🏾](estudo-de-caso-fluxograma-palavras) |
 
 
 ### Tarefa
